@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bulat and I'm a backend developer, from Russia.</p>
+<p align="left">My name is Bulat and I'm a backend developer from Russia.</p>
 
 ###
 
