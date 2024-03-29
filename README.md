@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning ML and AI<br>🎯 Goals: nice-working model of traffic.</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning ML and AI<br>🎯 Goals: nice-working model of traffic.</p>
 
 ###
 
